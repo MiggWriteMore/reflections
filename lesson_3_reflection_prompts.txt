@@ -27,3 +27,5 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer hereEnter file contents here
+    
+What is the benefit of having a copy of the last known state of the remote stored locally?
